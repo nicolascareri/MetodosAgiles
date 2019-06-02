@@ -1,5 +1,24 @@
-# MetodosAgiles
+﻿# Repositorio del trabajo especial de metodologias.
 
-Proyecto Scrum. Metodologías de desarollo de software.
+## Grupo 2
 
-API Recoleccion Basura - Subsecretaría de medio ambiente. 
+**Integrantes:**
+Pereyra Yraola, Eduardo Jose - Carpinetti, Heroel - Wesenack, Ezequiel - Careri, Nicolas - Canneva, Juan - Encinosa, Nina
+
+## Indice
+
+### DONE
+[Criterio de DONE](DONE.md)
+
+### Retrospective
+[Retrospective Warm up](Retrospective/WarmUp.md)
+[Retrospective Sprint 1](Retrospective/RetrospectiveSprint1.md)
+[Retrospective Sprint 2](Retrospective/RetrospectiveSprint2.md)
+
+### Sprint Planning
+[Sprint Planning 1](SprintPlanning/SprintPlanning1.md)
+[Sprint Planning 2](SprintPlanning/SprintPlanning2.md)
+
+
+
+
